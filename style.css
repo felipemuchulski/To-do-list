@@ -1,0 +1,13 @@
+:root{
+    --cor-de-fundo:  #06064A;
+    --backgorund-fundo: -webkit-radial-gradient(top left, #06064A, #2E2B2B);
+    --background-detalhes: -moz-radial-gradient(top left, #06064A, #2E2B2B);
+    --background: radial-gradient(to bottom right, #06064A, #2E2B2B);
+}
+
+body {
+    background: #06064A;
+    background: -webkit-radial-gradient(top left,#06064A, #2E2B2B);
+    background: -moz-radial-gradient(top left, #06064A, #2E2B2B);
+    background: radial-gradient(to bottom right, #06064A, #2E2B2B);
+}
